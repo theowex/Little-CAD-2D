@@ -30,9 +30,9 @@ El programa generará dibujos de círculos o elipses, triángulos, rectangulos o
 
 
 ## Integrantes:
-<br>Abanto Rodriguez Diego</br>
-Atamari Aldazabar Owen.
-Bustamante Yep Joaquín.
+<br>-Abanto Rodriguez Diego</br>
+<br>-Atamari Aldazabar Owen</br>
+<br>-Bustamante Yep Joaquín</br>
 
 ## Universidad
 [UTEC - Universodad de Ingeniería y Tecnología](https://www.utec.edu.pe/)
