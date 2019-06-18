@@ -54,4 +54,5 @@ import almacenar
 <br>-Bustamante Yep Joaquín</br>
 
 ## Universidad
+Universidad de Ingenieria y Tecnología
 [![alt text](https://www.utec.edu.pe/sites/default/files//logo_0.png)](https://www.utec.edu.pe/)
