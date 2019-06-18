@@ -35,4 +35,4 @@ El programa generará dibujos de círculos o elipses, triángulos, rectangulos o
 <br>-Bustamante Yep Joaquín</br>
 
 ## Universidad
-![alt text](https://www.utec.edu.pe/sites/default/files//logo_0.png)(https://www.utec.edu.pe/)
+[![alt text](https://www.utec.edu.pe/sites/default/files//logo_0.png)](https://www.utec.edu.pe/)
