@@ -1,10 +1,10 @@
 # Little CAD 2D
 
-Restricciones:
+## Restricciones:
 -Solo se pueden importar archivos con extensión ".txt" y se distingue mayusculas y minúsculas.
 -En todos los dibujos se deben ingresar valores entre los rangos, comenzando desde 1. En el caso del alto va desde 1 hasta 42, en el caso del ancho va desde 1 hasta 82
 -Si los valores ingresados no se encuentran en el rango
-
+-Los archivos deben encontrarse en la misma carpeta donde se encuentra el archivo del programa
 
 ## Instrucciones de uso:
 Al inicio del programa se presentará un menú, aquí se mostrarán las siguientes opciones, en donde cada una represanta un número:
