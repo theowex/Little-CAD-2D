@@ -30,7 +30,7 @@ El programa generará dibujos de círculos o elipses, triángulos, rectangulos o
 
 
 ## Integrantes:
-Abanto Rodriguez Diego.
+<br>Abanto Rodriguez Diego</br>
 Atamari Aldazabar Owen.
 Bustamante Yep Joaquín.
 
