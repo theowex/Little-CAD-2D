@@ -19,7 +19,9 @@ Salir del programa: Número 0
 Posteriorme se ingresará el número que representa el gráfico a dibujar, dependiendo del gráfico usado se mostrarán distintas opciones. 
 En el caso de leer dibujo y grabar dibujo, se debe ingreser el nombre del archivo a importar y exportar respectivamente.
 
-
+'''
+xsxsxsxs
+'''
 ## Descripción del Programa:
 El programa generará dibujos de círculos o elipses, triángulos, rectangulos o cuadrados y líneas. Así mismo puede leer y grabar un dibujo. 
 
