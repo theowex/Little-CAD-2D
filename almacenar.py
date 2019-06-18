@@ -16,7 +16,7 @@ def grabar_dibujo(matriz):
     try:
         open(nombre + ".txt", "x")
     except FileExistsError:
-        print("")
+        print("Se ha sobreescrito la información en el archivo porque ya existe.")
     archivo = open(nombre + ".txt", "w")
     palabra = ""
     for j in range(43, -1, -1):
