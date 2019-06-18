@@ -37,4 +37,4 @@ El programa generará dibujos de círculos o elipses, triángulos, rectangulos o
 ## Universidad
 [UTEC - Universodad de Ingeniería y Tecnología](https://www.utec.edu.pe/)
 
-![alt text](https://www.utec.edu.pe/sites/default/files//logo_0.png)
+![alt text][(https://www.utec.edu.pe/sites/default/files//logo_0.png)](https://www.utec.edu.pe/)
