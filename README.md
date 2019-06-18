@@ -18,6 +18,7 @@ for i in range(84):
 ```
 Para lograr dibujar, se crearon funciones en donde se usaba la ecuación de la recta y la elipse.
 
+
 ## Instrucciones de uso:
 <br>Al inicio del programa se presentará un menú, aquí se mostrarán las siguientes opciones, en donde cada una represanta un número:</br>
 <br>Agregar una línea: Número 1</br>
