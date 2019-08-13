@@ -49,8 +49,8 @@ import almacenar
 
 
 ## Integrantes:
+<br>-Atamari Aldazabal Owen</br>
 <br>-Abanto Rodriguez Diego</br>
-<br>-Atamari Aldazabar Owen</br>
 <br>-Bustamante Yep Joaquín</br>
 
 ## Universidad
