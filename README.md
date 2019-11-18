@@ -49,9 +49,9 @@ import almacenar
 
 
 ## Integrantes:
-<br>-Atamari Aldazabal Owen</br>
-<br>-Abanto Rodriguez Diego</br>
-<br>-Bustamante Yep Joaquín</br>
+<br>-Atamari Aldazabal, Owen</br>
+<br>-Abanto Rodriguez, Diego</br>
+<br>-Bustamante Yep, Joaquín</br>
 
 ## Universidad
 [![alt text](https://www.utec.edu.pe/sites/default/files//logo_0.png)](https://www.utec.edu.pe/)
